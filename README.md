@@ -57,3 +57,5 @@ Modelin doğruluğu %98 oldu, ki bu oldukça etkileyici.Diğer gözetimli öğre
 unsupervised da ise başlangıç metrik değerlerim düşük çıktı fakat daha sonrasında elbow yöntemi ile küme sayımı belirledim zaten daha öncesinde verilerimi scale etmiş ve azaltmıştım.
 İyi değerler yakalayamasam da elbow yöntemi ve scale ile daha doğru sonuçlar elde ettim.
 
+
+https://www.kaggle.com/code/muhammeduyur/sc-ml
