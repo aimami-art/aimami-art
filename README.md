@@ -1,4 +1,4 @@
-![](https://sdmntprukwest.oaiusercontent.com/files/00000000-a83c-6243-8c28-70b66dd8e16b/raw?se=2025-08-11T13%3A44%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=11f79cd0-4d0c-5d69-8e63-1e763a71b71d&skoid=8e0fb8a9-6beb-4b32-9eda-253f61890767&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-11T05%3A12%3A08Z&ske=2025-08-12T05%3A12%3A08Z&sks=b&skv=2024-08-04&sig=BUQ1zux0LlH1Yub%2BRc4LhmXfA8dsmSljvTs6dxjqeDU%3D)
+![](resized_high_quality_1200x300.png)
 
 # Hi, I'm Muhammed Uyğur 
 
