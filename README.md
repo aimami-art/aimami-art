@@ -63,5 +63,6 @@ I'm a passionate AI developer focused on building intelligent deep learning and 
 - Feel free to reach out for collaborations on AI projects!
 - Always excited to discuss AI, machine learning, and intelligent systems
 - 📧 Email: uygurmuhammed9@icloud.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 Linkedin: [Bağlantı](https://www.linkedin.com/in/muhammeduygur)
+  
 
